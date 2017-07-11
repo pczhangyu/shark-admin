@@ -3,3 +3,5 @@ shark-admin
 spring-boot
 mybatis
 http://shiro.apache.org/
+redis
+mongodb
